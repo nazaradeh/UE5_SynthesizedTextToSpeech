@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/MS_TextToSpeech.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/BP_TextToSpeech.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/Controls/IA_ae.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/Controls/IA_i.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/Controls/IA_u.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/Controls/IMC_SpeechControl.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/F_Allophones.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/DT_Allophones.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/E_Translator.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/E_Transcriber.uasset",
+				"D:/Users/Aryo Nazaradeh/Misc/Work/Games/2023/MS_SynthesizedVoice/Github Repo/UE5_SynthesizedTextToSpeech/SynthesizedVoice/Content/__ExternalActors__/MainScene/9/3O/SQSOYOX8JZTWD30YQQVOIH.uasset"
+			]
+		}
+	]
+}
